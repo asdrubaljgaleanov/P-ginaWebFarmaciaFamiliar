@@ -1,0 +1,36 @@
+
+<!DOCTYPE html>
+<html lang="es">
+
+    <head>
+        <meta charset="Utf-8">
+        <meta name="viewport" content="width=device-width, user-scalable=no,initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+        <title>FARMACIA FAMILIAR</title>
+        <link rel="shortcut icon" href="IMG/Farmacia Logo.png" type="image/x-icon"><!--para icono de la pagina-->
+        <link rel="stylesheet" href="estilos.css">
+    </head>
+
+    <body>
+
+        <header>
+            <nav class="menu-main">
+                <a href="Index.html">Inicio</a>
+                <a href="ManualUsuario.html">Manual</a>
+        </header>
+
+        <h1></h1>
+        <section>
+            <img src="IMG/Fondos.png" alt="logo" width="900" height="400">
+        </section>
+        
+        <footer>
+            <h5>Contactenos al: 📱<a href="#"> +504 9846-2496</a> </h5>
+            <h5>Nuestro Correo: ✉<a href="https://mail.google.com/mail/u/0/#inbox?compose=new"> farmaciafamiliar@gmail.com</a> </h5>
+            <h5>Puedes encontrarnos tambien en Facebook como "Farmacia Familiar"</a></h5> <a href="https://www.facebook.com/"><img src="IMG/face.jpg" alt="logo_face" height="25" width="25"></a>
+
+            <br>
+            <hr><!--linea-->
+            <h6>‏‏‎© Derechos Reservados a la Farmacia Familiar 2022</h6>
+         </footer><!--despues del href, coloco la imagen para sea de enlace hacia la pagina de facebook-->
+    </body>
+</html>
